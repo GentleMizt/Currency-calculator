@@ -35,5 +35,15 @@ select{
     margin: .5rem;
     width: 40%;
     position: relative;
-    left: 9.6rem;
+    left: 10.4rem;
+    display: flex;
+    /* border: 1px solid blue; */
+    justify-content: space-between;
+}
+#swap{
+    margin-left: 7.5em;
+}
+.rate{
+    /* border: 1px solid red; */
+    display: inline;
 }
